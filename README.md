@@ -1,1 +1,1 @@
-Projeto de criação de produtos utilizando mongodb
+Projeto de criação de produtos utilizando dessa vez o Mongoose
