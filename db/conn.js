@@ -8,6 +8,3 @@ async function main() {
 main().catch((err) => console.log(err))
 
 module.exports = mongoose
-
-//conexao com banco mongoose
-module.exports = mongoose;
